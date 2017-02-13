@@ -1,0 +1,8 @@
+applications:
+- path: .
+  memory: 128M
+  instances: 1
+  domain: mybluemix.net
+  name: RAM projeto01
+  host: RAM-projeto01
+  disk_quota: 1024M
